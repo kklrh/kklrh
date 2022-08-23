@@ -16,3 +16,6 @@ I am working in lua about 3 years, and I am one of The QBCore Developer Team
 ### My Links: [Discord Server](https://discord.gg/khs) | [Account](https://discord.com/users/667149845739470849)
 
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
+
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)

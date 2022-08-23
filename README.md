@@ -3,24 +3,15 @@
 <!--
 **Killerhunter100/Killerhunter100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started:-->
 
 ### About me
 
-test
+Hi I am Killerhunter, I am lua developer I enjoy what I Do.
 
 ### FiveM & QBCore
 
-test
+I have been using and working with FiveM as a hobby For About 3 Years 
+and I am one of The QBCore Developer Team
 
 QBCore Links: Discord | Documentation | GitHub

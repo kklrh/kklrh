@@ -19,3 +19,4 @@ I am working in lua about 3 years, and I am one of The QBCore Developer Team
 
 
 ![example workflow](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs/tree/teesloane-patch-5.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs/?branch=teesloane-patch-5)

@@ -22,5 +22,5 @@ I have been working in LUA for  about 3 years. And I am currenty a part of QBCor
 
 ### [![LatestWork](https://cdn.discordapp.com/attachments/831282131572883496/1011656494116257852/image1.png)](https://github.com/Killerhunter100?tab=repositories)
 
-### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=react)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&layout=compact)](https://github.com/Killerhunter100/github-readme-stats)
+### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=aura_dark)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&layout=compact&theme=aura_dark)](https://github.com/Killerhunter100/github-readme-stats)

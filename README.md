@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 ### About me
 
-**Hi I am Killerhunter, I am lua developer.**
+**Hi I am Killerhunter, I am [![My Skills2](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) developer.**
 
 ### FiveM & QBCore
 

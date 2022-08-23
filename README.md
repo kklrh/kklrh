@@ -18,4 +18,4 @@ I am working in lua about 3 years, and I am one of The QBCore Developer Team
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
 
 
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter]([https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push](https://cdn.discordapp.com/attachments/856220623810330666/1003072883943276544/Artboard_13x.png))

@@ -18,4 +18,4 @@ I am working in lua about 3 years, and I am one of The QBCore Developer Team
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
 
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example workflow](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)

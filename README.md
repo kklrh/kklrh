@@ -7,11 +7,10 @@ Here are some ideas to get you started:-->
 
 ### About me
 
-Hi I am Killerhunter, I am lua developer I enjoy what I Do.
+Hi I am Killerhunter, I am lua developer.
 
 ### FiveM & QBCore
 
-I have been using and working with FiveM as a hobby For About 3 Years 
-and I am one of The QBCore Developer Team
+I am working in lua about 3 years, and I am one of The QBCore Developer Team
 
 QBCore Links: Discord | Documentation | GitHub

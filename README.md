@@ -21,3 +21,22 @@ I have been working in LUA for  about 3 years. And I am currenty a part of QBCor
 
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=aura_dark)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&layout=compact&theme=aura_dark)](https://github.com/Killerhunter100/github-readme-stats)
+
+
+query {
+  user(login: "Killerhunter100") {
+    repositories(isFork: false, first: 100) {
+      nodes {
+        languages(first: 1) {
+          edges {
+            size
+            node {
+              color
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+}

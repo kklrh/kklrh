@@ -23,6 +23,6 @@ Here are some ideas to get you started:-->
 
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=aura_dark)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&layout=compact&theme=aura_dark)](https://github.com/Killerhunter100/github-readme-stats)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8)](https://github.com/Killerhunter100/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&hide=javascript,html)](https://github.com/Killerhunter100/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&layout=compact)](https://github.com/Killerhunter100/github-readme-stats)

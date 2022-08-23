@@ -18,5 +18,4 @@ I am working in lua about 3 years, and I am one of The QBCore Developer Team
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
 
 
-![example workflow](https://app.travis-ci.com/travis-ci/travis-web.svg?branch=master)
-[![CircleCI](https://cdn.discordapp.com/attachments/831282131572883496/1011656115869716570/image.png)](https://github.com/Killerhunter100?tab=repositories)
+### [![LatestWork](https://cdn.discordapp.com/attachments/831282131572883496/1011656494116257852/image1.png)](https://github.com/Killerhunter100?tab=repositories)

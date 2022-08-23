@@ -7,11 +7,11 @@ Here are some ideas to get you started:-->
 
 ### About me
 
-**Hi I am Killerhunter, I am lua developer.
+**Hi I am Killerhunter, I am lua developer.**
 
 ### FiveM & QBCore
 
-**I have been working in LUA for  about 3 years. And I am currenty a part of QBCore Developer Team
+**I have been working in LUA for  about 3 years. And I am currenty a part of QBCore Developer Team**
 
 ### My Links: [Discord Server](https://discord.gg/khs) | [Account](https://discord.com/users/667149845739470849)
 

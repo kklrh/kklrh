@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 ### About me
 
-**Hi I am Killerhunter, I am [![My Skills2](https://skillicons.dev/icons?i=lua)](https://skillicons.dev) developer.**
+**Hi I am Killerhunter, I am LUA developer.**
 
 ### FiveM & QBCore
 
@@ -17,15 +17,14 @@ Here are some ideas to get you started:-->
 
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
 
-### [![My Skills](https://skillicons.dev/icons?i=js,css,lua)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,lua" />
+  </a>
+</p>
 
 ### [![KO-FI](https://cdn.discordapp.com/attachments/831282131572883496/1011683678084145172/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667.svg)](https://ko-fi.com/killerhunter100)
 
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=aura_dark)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=aura_dark)](https://github.com/Killerhunter100/github-readme-stats)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,kubernetes,docker,c,vim" />
-  </a>
-</p>

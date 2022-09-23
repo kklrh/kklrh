@@ -22,6 +22,6 @@ Here are some ideas to get you started:-->
 ### [![KO-FI](https://cdn.discordapp.com/attachments/831282131572883496/1011683678084145172/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667.svg)](https://ko-fi.com/killerhunter100)
 
 ### GitHub Stats:
-
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed608&label=Profile%20views&color=0e75b6&style=flat" alt="KHDEV" /> </p>
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=dark&hide_border=true)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=dark&hide_border=true)](https://github.com/Killerhunter100/github-readme-stats)

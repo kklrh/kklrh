@@ -23,5 +23,8 @@ Here are some ideas to get you started:-->
 
 ### GitHub Stats:
 ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Killerhunter100&label=Profile%20views&color=0e75b6&style=flat" alt="KHDEV" /> </p>
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Killerhunter100&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="KHDEV" /> </p>
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Killerhunter100&label=Profile%20views&color=0e75b6&style=flat" alt="KHDEV" /> </p>
+### <p align="left"> <img src="https://komarev.com/ghpvc/?username=Killerhunter100&label=Profile%20views&color=0e75b6&style=flat" alt="KHDEV" /> </p>
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=dark&hide_border=true)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=dark&hide_border=true)](https://github.com/Killerhunter100/github-readme-stats)

@@ -24,4 +24,4 @@ Here are some ideas to get you started:-->
 ### GitHub Stats:
 
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=dark&hide_border=true)
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=dark)](https://github.com/Killerhunter100/github-readme-stats)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=dark&hide_border=true)](https://github.com/Killerhunter100/github-readme-stats)

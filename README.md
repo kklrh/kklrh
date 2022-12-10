@@ -26,4 +26,4 @@ Here are some ideas to get you started:-->
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=dark&hide_border=true)
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killerhunter100&langs_count=8&theme=dark&hide_border=true)](https://github.com/Killerhunter100/github-readme-stats)
 
-<a href='https://discord.gg/gEwsEn7WYy'>![Discord Banner 2](https://discordapp.com/api/guilds/980823938282176592/widget.png?style=banner2)</a>
+<img src="https://discordapp.com/api/guilds/980823938282176592/widget.png?style=banner4" alt="Discord Banner 4"/>

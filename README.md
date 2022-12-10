@@ -13,7 +13,10 @@ Here are some ideas to get you started:-->
 
 **I have been working in LUA for  about 3 years. And I am currently a part of QBCore Developer Team**
 
-### My Links: [Discord Server](https://discord.gg/https://discord.gg/gEwsEn7WYy) | [Account](https://discord.com/users/667149845739470849)
+### My Links: 
+[Discord Server]
+<a href='https://discord.gg/gEwsEn7WYy'>![Discord Banner 2](https://discordapp.com/api/guilds/980823938282176592/widget.png?style=banner2)</a>
+[Account](https://discord.com/users/667149845739470849)
 
 ### QBCore Links: [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework/)
 

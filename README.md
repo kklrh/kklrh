@@ -2,9 +2,14 @@
 
 
 ### About Me
+
+***
+
 ![About Me](https://img.shields.io/badge/-Hi%20I%20am%20Killerhunter,%20I%20am%20(Html,css,js,Lua,reactjs,mysql)%20developer.-000?&logo=aboutdotme)
 
 ### Languages
+
+***
 
 ![Html](https://img.shields.io/badge/-Html-000?&logo=html5)
 ![Css](https://img.shields.io/badge/-Css-000?&logo=css3)
@@ -14,6 +19,8 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### Links
+
+***
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/667149845739470849)](https://discord.com/users/667149845739470849)
 ### ![Killerhunter100's GitHub stats](https://github-readme-stats.vercel.app/api?username=Killerhunter100&show_icons=true&theme=dark&hide_border=true)

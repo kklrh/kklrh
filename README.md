@@ -19,17 +19,17 @@
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" width="25" src="https://cdn.simpleicons.org/javascript/B6203CFF"></code>
-  <code><img title="HTML5" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"></code>
-  <code><img title="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"></code>
-  <code><img title="SASS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg"></code>
-  <code><img title="React" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg"></code>
-  <code><img title="Visual Studio Code" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg"></code>
-  <code><img title="JQuery" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jquery.svg"></code>
-  <code><img title="JSON" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/json.svg"></code>
-  <code><img title="GitHub" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"></code>
-  <code><img title="MySQL" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"></code>
-  <code><img title="PHP" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/php.svg"></code>
-  <code><img title="NodeJs" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg"></code>
+  <code><img title="HTML5" height="25" width="25" src="https://cdn.simpleicons.org/html5/B6203CFF"></code>
+  <code><img title="CSS" height="25" width="25" src="https://cdn.simpleicons.org/css3/B6203CFF"></code>
+  <code><img title="SASS" height="25" width="25" src="https://cdn.simpleicons.org/sass/B6203CFF"></code>
+  <code><img title="React" height="25" width="25" src="https://cdn.simpleicons.org/react/B6203CFF"></code>
+  <code><img title="Visual Studio Code" height="25" width="25" src="https://cdn.simpleicons.org/visualstudiocode/B6203CFF"></code>
+  <code><img title="JQuery" height="25" width="25" src="https://cdn.simpleicons.org/jquery/B6203CFF"></code>
+  <code><img title="JSON" height="25" width="25" src="https://cdn.simpleicons.org/json/B6203CFF"></code>
+  <code><img title="GitHub" height="25" width="25" src="https://cdn.simpleicons.org/github/B6203CFF"></code>
+  <code><img title="MySQL" height="25" width="25" src="https://cdn.simpleicons.org/mysql/B6203CFF"></code>
+  <code><img title="PHP" height="25" width="25" src="https://cdn.simpleicons.org/php/B6203CFF"></code>
+  <code><img title="NodeJs" height="25" width="25" src="https://cdn.simpleicons.org/nodedotjs/B6203CFF"></code>
 </p>
 <hr>
 

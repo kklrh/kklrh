@@ -18,7 +18,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"></code>
+  <code><img title="Javascript" height="25" width="25" src="https://cdn.simpleicons.org/javascript/white"></code>
   <code><img title="HTML5" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"></code>
   <code><img title="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"></code>
   <code><img title="SASS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg"></code>

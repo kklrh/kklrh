@@ -20,10 +20,10 @@
 <p align="center">
   <code><img title="Javascript" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"></code>
   <code><img title="HTML5" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"></code>
-  <code><img title="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css.svg"></code>
+  <code><img title="CSS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"></code>
   <code><img title="SASS" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sass.svg"></code>
   <code><img title="React" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg"></code>
-  <code><img title="Visual Studio Code" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vscode.png"></code>
+  <code><img title="Visual Studio Code" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.png"></code>
   <code><img title="JQuery" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jquery.svg"></code>
   <code><img title="JSON" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/json.svg"></code>
   <code><img title="GitHub" height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"></code>

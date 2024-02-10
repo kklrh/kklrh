@@ -41,7 +41,7 @@
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kklrh&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" alt="kklrh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kklrh&show_icons=true&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kklrh&title_color=B6203CFF&text_color=B6203CFF&show_icons=true&theme=slateorange&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>

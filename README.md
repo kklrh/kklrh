@@ -52,7 +52,4 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kklrh&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" width="100%"/>
-</p>
-
 <hr>

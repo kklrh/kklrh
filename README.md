@@ -38,10 +38,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kklrh&theme=react&border=61dafb&hide_border=true" alt="kklrh" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kklrh&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" alt="kklrh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kklrh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kklrh&show_icons=true&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -52,7 +52,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kklrh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kklrh&theme=slateorange&hide_border=true&border_radius=5&mode=weekly&stroke=B6203C&currStreakNum=B6203C&currStreakLabel=B6203C&sideLabels=EE2A4E&sideNums=E0293D&fire=FF2721&ring=B6203C&dates=FF2D54B0" width="100%"/>
 </p>
 
 <hr>

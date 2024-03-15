@@ -11,7 +11,7 @@
   <br>
   🔬 I’m currently starting my company named Deepcode Development in Germany
   <br>
-  📫 How to reach me: <a href="mailto: boodysteam11@gmail.com">boodysteam11@gmail.com</a>
+  📫 How to reach me: <a href="mailto: khdevelopment100@gmail.com">khdevelopment100@gmail.com</a>
 </p>
 
 <hr>

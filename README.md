@@ -9,7 +9,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently starting my company named Deepcode Development in Germany
+  🔬 I’ve officially kicked off my store, Deepcode Development
   <br>
   📫 How to reach me: <a href="mailto: khdevelopment100@gmail.com">khdevelopment100@gmail.com</a>
 </p>

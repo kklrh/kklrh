@@ -1,147 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="500" viewBox="0 0 840 500" font-family="Consolas, Menlo, monospace" font-size="13px" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxOTgzZjQ5Ni1mMTM5LTQwZjktODFlNy02MGZhMmE1YzI4NDYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMq4XO8mFUzAolz8Kn+qB0UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1OTI0MzM0NS0wNzYxLTQxOGEtODA1YS05OTA2ZDkzMTE0MGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoHTEM5BEZuNrSEr5TC3LjFAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggcPj9zO0nC3hIfQrEtPVXWc+HPhEi+PLJJ6E43Xmzfx2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCk8N3VThe5Tq53p6aAiqeUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDI93i4OzGHMvwbsfEw47Uzr5sfbt2iHr5P5JvX0supLmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjQZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjE5ODNmNDk2LWYxMzktNDBmOS04MWU3LTYwZmEyYTVjMjg0Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmNlZjMyYzM5LWJiNjgtNGNlNS04YWQ4LTM5NGQzMzU5NjE0ZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBw+P3M7ScLeEh9CsS09VdZz4c+ESL48sknoTjdebN/HaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggNksoT37K1X41dMXGAwUmGLJwqd3UscSYAifjbsJLZbOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggLxaZ1oJnZIZ9ixrdcvDf+RQuPzshuZjCjC/NMVMynwZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEcc4M3jrH/wNF26TAVEQ941Ptx1TuwEG3/EuBrl1pxb85SS5pIuEn2UgGBboOHeQNeMb40XRIB7xEMm/p3NLPY=</c2pa:manifest></metadata>
 <rect x="0.5" y="0.5" width="839" height="499" rx="10" fill="#0d1117" stroke="#30363d"/>
-
-<!-- ASCII ART -->
-<text x="0" y="20" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<text x="0" y="55" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<text x="0" y="70" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<text x="0" y="85" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<text x="0" y="100" fill="#8b949e" xml:space="preserve">                                                                    ::::::::                                         </text>
-<text x="0" y="115" fill="#8b949e" xml:space="preserve">                                                                   :::::::::                                         </text>
-<text x="0" y="130" fill="#8b949e" xml:space="preserve">                                                                  ::::::::::                                         </text>
-<text x="0" y="145" fill="#8b949e" xml:space="preserve">                                                                 ::::::::::                                           </text>
-<text x="0" y="160" fill="#8b949e" xml:space="preserve">                                                                ::::::::::                                            </text>
-<text x="0" y="175" fill="#8b949e" xml:space="preserve">                                                :::::::::::::::::::::::::                                             </text>
-<text x="0" y="190" fill="#8b949e" xml:space="preserve">                                              ::::::::::::::::::::::::::                                              </text>
-<text x="0" y="205" fill="#8b949e" xml:space="preserve">                                            :::::::::::::::::::::::::::                                               </text>
-<text x="0" y="220" fill="#8b949e" xml:space="preserve">                                          :::::::::::::::::::::::::::::  :::::                                       </text>
-<text x="0" y="235" fill="#8b949e" xml:space="preserve">                                        ::::::::::::::::::::::::::::::  ::::::::                                     </text>
-<text x="0" y="250" fill="#8b949e" xml:space="preserve">                                      :::::::::::::        ::::::::::  :::::::::::                                   </text>
-<text x="0" y="265" fill="#8b949e" xml:space="preserve">                                    :::::::::::::         ::::::::::  ::::::::::::::                                 </text>
-<text x="0" y="280" fill="#8b949e" xml:space="preserve">                                  :::::::::::::          ::::::::::     ::::::::::::::                               </text>
-<text x="0" y="295" fill="#8b949e" xml:space="preserve">                                :::::::::::::            ::::::::::       ::::::::::::::                             </text>
-<text x="0" y="310" fill="#8b949e" xml:space="preserve">                              :::::::::::::             ::::::::::          :::::::::::::                            </text>
-<text x="0" y="325" fill="#8b949e" xml:space="preserve">                            :::::::::::::              ::::::::::           :::::::::::::                            </text>
-<text x="0" y="340" fill="#8b949e" xml:space="preserve">                            ::::::::::::              ::::::::::          :::::::::::::-                             </text>
-<text x="0" y="355" fill="#8b949e" xml:space="preserve">                             :::::::::::::           ::::::::::         :::::::::::::-                               </text>
-<text x="0" y="370" fill="#8b949e" xml:space="preserve">                               :::::::::::::                          :::::::::::::-                                 </text>
-<text x="0" y="385" fill="#8b949e" xml:space="preserve">                                 :::::::::::::                       ::::::::::::-                                   </text>
-<text x="0" y="400" fill="#8b949e" xml:space="preserve">                                   :::::::::::::                   :::::::::::::                                     </text>
-<text x="0" y="415" fill="#8b949e" xml:space="preserve">                                     :::::::::::::               :::::::::::::                                       </text>
-<text x="0" y="430" fill="#8b949e" xml:space="preserve">                                       ::::::::::::            :::::::::::::                                         </text>
-<text x="0" y="445" fill="#8b949e" xml:space="preserve">                                                             :::::::::::::                                            </text>
-<text x="0" y="460" fill="#8b949e" xml:space="preserve">                                                             ::::::::::                                               </text>
-<text x="0" y="475" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<text x="0" y="490" fill="#8b949e" xml:space="preserve">                                                                                                                      </text>
-<!-- HEADER -->
-<text x="390" y="45" xml:space="preserve">
-  <tspan fill="#58a6ff">kklrh@github </tspan>
-  <tspan fill="#484f58">──────────────────────────────────</tspan>
-</text>
-
-<!-- INFO -->
-<text x="390" y="87" xml:space="preserve">
-  <tspan fill="#ffa657">OS: </tspan>
-  <tspan fill="#484f58">..................................... </tspan>
-  <tspan fill="#c9d1d9">Windows, macOS</tspan>
-</text>
-
-<text x="390" y="108" xml:space="preserve">
-  <tspan fill="#ffa657">Uptime: </tspan>
-  <tspan fill="#484f58">......................... </tspan>
-  <tspan fill="#c9d1d9">18 years</tspan>
-</text>
-
-<text x="390" y="129" xml:space="preserve">
-  <tspan fill="#ffa657">Host: </tspan>
-  <tspan fill="#484f58">.......................................... </tspan>
-  <tspan fill="#c9d1d9">Devaply</tspan>
-</text>
-
-<text x="390" y="150" xml:space="preserve">
-  <tspan fill="#ffa657">Kernel: </tspan>
-  <tspan fill="#484f58">............................ </tspan>
-  <tspan fill="#c9d1d9">Software Developer</tspan>
-</text>
-
-<text x="390" y="171" xml:space="preserve">
-  <tspan fill="#ffa657">IDE: </tspan>
-  <tspan fill="#484f58">...................... </tspan>
-  <tspan fill="#c9d1d9">VS Code, Cursor, Claude Code</tspan>
-</text>
-
-<!-- PROGRAMMING LANGUAGES -->
-<text x="390" y="213" xml:space="preserve">
-  <tspan fill="#ffa657">Languages.Programming: </tspan>
-  <tspan fill="#484f58">.... </tspan>
-  <tspan fill="#c9d1d9">C++, JavaScript, TSX, React, Next.js</tspan>
-</text>
-
-<text x="390" y="234" xml:space="preserve">
-  <tspan fill="#ffa657"> </tspan>
-  <tspan fill="#484f58">.............................. </tspan>
-  <tspan fill="#c9d1d9">NestJS, React Native, Python</tspan>
-</text>
-
-<text x="390" y="255" xml:space="preserve">
-  <tspan fill="#ffa657">Languages.Real: </tspan>
-  <tspan fill="#484f58">............... </tspan>
-  <tspan fill="#c9d1d9">Arabic, English, German</tspan>
-</text>
-
-<text x="390" y="276" xml:space="preserve">
-  <tspan fill="#ffa657">Hobbies: </tspan>
-  <tspan fill="#484f58">....................................... </tspan>
-  <tspan fill="#c9d1d9">Coding</tspan>
-</text>
-
-<!-- CONTACT -->
-<text x="390" y="318" xml:space="preserve">
-  <tspan fill="#58a6ff">─ Contact </tspan>
-  <tspan fill="#484f58">──────────────────────────────────────────────</tspan>
-</text>
-
-<text x="390" y="339" xml:space="preserve">
-  <tspan fill="#ffa657">Email: </tspan>
-  <tspan fill="#484f58">........................ </tspan>
-  <tspan fill="#c9d1d9">abdallah@devaply.com</tspan>
-</text>
-
-<text x="390" y="360" xml:space="preserve">
-  <tspan fill="#ffa657">LinkedIn: </tspan>
-  <tspan fill="#484f58">.................. </tspan>
-  <tspan fill="#c9d1d9">in/abdallahdev/</tspan>
-</text>
-
-<!-- GITHUB STATS -->
-<text x="390" y="402" xml:space="preserve">
-  <tspan fill="#58a6ff">─ GitHub Stats </tspan>
-  <tspan fill="#484f58">─────────────────────────────────────────</tspan>
-</text>
-
-<text x="390" y="423" xml:space="preserve">
-  <tspan fill="#ffa657">Repos: </tspan>
-  <tspan fill="#484f58">... </tspan>
-  <tspan fill="#c9d1d9">6</tspan>
-  <tspan fill="#484f58"> | </tspan>
-  <tspan fill="#ffa657">Stars: </tspan>
-  <tspan fill="#484f58">........ </tspan>
-  <tspan fill="#c9d1d9">40</tspan>
-</text>
-
-<text x="390" y="444" xml:space="preserve">
-  <tspan fill="#ffa657">Commits: </tspan>
-  <tspan fill="#484f58">............... </tspan>
-  <tspan fill="#c9d1d9">1,022</tspan>
-  <tspan fill="#484f58"> | </tspan>
-  <tspan fill="#ffa657">Followers: </tspan>
-  <tspan fill="#484f58">...... </tspan>
-  <tspan fill="#c9d1d9">14</tspan>
-</text>
-
-<text x="390" y="465" xml:space="preserve">
-  <tspan fill="#ffa657">Lines of Code: </tspan>
-  <tspan fill="#c9d1d9">1,723,041</tspan>
-</text>
-
+<g font-size="9px" fill="#8b949e">
+<text x="46.5" y="118.0" xml:space="preserve">                                        ::::::::</text>
+<text x="46.5" y="129.0" xml:space="preserve">                                       :::::::::</text>
+<text x="46.5" y="140.0" xml:space="preserve">                                      ::::::::::</text>
+<text x="46.5" y="151.0" xml:space="preserve">                                     ::::::::::</text>
+<text x="46.5" y="162.0" xml:space="preserve">                                    ::::::::::</text>
+<text x="46.5" y="173.0" xml:space="preserve">                    :::::::::::::::::::::::::</text>
+<text x="46.5" y="184.0" xml:space="preserve">                  ::::::::::::::::::::::::::</text>
+<text x="46.5" y="195.0" xml:space="preserve">                :::::::::::::::::::::::::::</text>
+<text x="46.5" y="206.0" xml:space="preserve">              :::::::::::::::::::::::::::::  :::::</text>
+<text x="46.5" y="217.0" xml:space="preserve">            ::::::::::::::::::::::::::::::  ::::::::</text>
+<text x="46.5" y="228.0" xml:space="preserve">          :::::::::::::        ::::::::::  :::::::::::</text>
+<text x="46.5" y="239.0" xml:space="preserve">        :::::::::::::         ::::::::::  ::::::::::::::</text>
+<text x="46.5" y="250.0" xml:space="preserve">      :::::::::::::          ::::::::::     ::::::::::::::</text>
+<text x="46.5" y="261.0" xml:space="preserve">    :::::::::::::            ::::::::::       ::::::::::::::</text>
+<text x="46.5" y="272.0" xml:space="preserve">  :::::::::::::             ::::::::::          :::::::::::::</text>
+<text x="46.5" y="283.0" xml:space="preserve">:::::::::::::              ::::::::::           :::::::::::::</text>
+<text x="46.5" y="294.0" xml:space="preserve">::::::::::::              ::::::::::          :::::::::::::-</text>
+<text x="46.5" y="305.0" xml:space="preserve"> :::::::::::::           ::::::::::         :::::::::::::-</text>
+<text x="46.5" y="316.0" xml:space="preserve">   :::::::::::::                          :::::::::::::-</text>
+<text x="46.5" y="327.0" xml:space="preserve">     :::::::::::::                       ::::::::::::-</text>
+<text x="46.5" y="338.0" xml:space="preserve">       :::::::::::::                   :::::::::::::</text>
+<text x="46.5" y="349.0" xml:space="preserve">         :::::::::::::               :::::::::::::</text>
+<text x="46.5" y="360.0" xml:space="preserve">           ::::::::::::            :::::::::::::</text>
+<text x="46.5" y="371.0" xml:space="preserve">                                 :::::::::::::</text>
+<text x="46.5" y="382.0" xml:space="preserve">                                 ::::::::::</text>
+</g>
+<text x="390" y="45" xml:space="preserve"><tspan fill="#58a6ff">abdallah@github </tspan><tspan fill="#484f58">────────────────────────────────────────</tspan></text>
+<text x="390" y="87" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">..................................... </tspan><tspan fill="#c9d1d9">Windows, macOS</tspan></text>
+<text x="390" y="108" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">XX years, X months, X days</tspan></text>
+<text x="390" y="129" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">.......................................... </tspan><tspan fill="#c9d1d9">Devaply</tspan></text>
+<text x="390" y="150" xml:space="preserve"><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#484f58">........................... </tspan><tspan fill="#c9d1d9">Full-Stack Developer</tspan></text>
+<text x="390" y="171" xml:space="preserve"><tspan fill="#ffa657">IDE: </tspan><tspan fill="#484f58">........................................... </tspan><tspan fill="#c9d1d9">VS Code</tspan></text>
+<text x="390" y="213" xml:space="preserve"><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#484f58">............ </tspan><tspan fill="#c9d1d9">C++, JS, TSX, Python</tspan></text>
+<text x="390" y="234" xml:space="preserve"><tspan fill="#ffa657">Frameworks: </tspan><tspan fill="#484f58">....... </tspan><tspan fill="#c9d1d9">React, Next.js, NestJS, React Native</tspan></text>
+<text x="390" y="255" xml:space="preserve"><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#484f58">................ </tspan><tspan fill="#c9d1d9">Arabic, English, German</tspan></text>
+<text x="390" y="276" xml:space="preserve"><tspan fill="#ffa657">Hobbies: </tspan><tspan fill="#484f58">................................... </tspan><tspan fill="#c9d1d9">Coding only</tspan></text>
+<text x="390" y="318" xml:space="preserve"><tspan fill="#58a6ff">─ Contact </tspan><tspan fill="#484f58">───────────────────────────────────────────────</tspan></text>
+<text x="390" y="339" xml:space="preserve"><tspan fill="#ffa657">Email: </tspan><tspan fill="#484f58">............................ </tspan><tspan fill="#c9d1d9">abdallah@devaply.com</tspan></text>
+<text x="390" y="360" xml:space="preserve"><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#484f58">..................................... </tspan><tspan fill="#c9d1d9">in/kklrh</tspan></text>
+<text x="390" y="402" xml:space="preserve"><tspan fill="#58a6ff">─ GitHub Stats </tspan><tspan fill="#484f58">──────────────────────────────────────────</tspan></text>
+<text x="390" y="423" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">.............. </tspan><tspan fill="#c9d1d9">6</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">............. </tspan><tspan fill="#c9d1d9">40</tspan></text>
+<text x="390" y="444" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">........ </tspan><tspan fill="#c9d1d9">1,022</tspan><tspan fill="#484f58"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">......... </tspan><tspan fill="#c9d1d9">14</tspan></text>
+<text x="390" y="465" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#484f58">.......................... </tspan><tspan fill="#c9d1d9">1,723,041</tspan></text>
 </svg>
